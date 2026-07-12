@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Project specific
+tmp
+
+# GAS
+gas/.clasprc.json
